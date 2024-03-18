@@ -1,2 +1,2 @@
 # bookbot
-Python Program to analyze a book
+BookBot is a git project!
